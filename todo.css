@@ -1,0 +1,22 @@
+.container{
+    width: 50%;
+    min-width: 450px;
+    position: absolute;
+    margin-top: 10%;
+    background-color: aqua;
+    min-height: 400px;
+    margin-left: 25%;
+    border-radius: 15px;
+    
+
+
+}
+.heading{
+    margin-left: 30%;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.tasks{
+    display: flex;
+    margin-left: 30%;
+}
